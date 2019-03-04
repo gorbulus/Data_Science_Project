@@ -27,9 +27,9 @@ Welcome to my RMOTR Data Science Project.  I will be exploring a dataset found o
 
 # This dataset contains two files:
 
-    ```winemag-data-130k-v2.csv``` contains 10 columns and 130k rows of wine reviews.
+```winemag-data-130k-v2.csv``` contains 10 columns and 130k rows of wine reviews.
 
-    ```winemag-data_first150k.csv``` contains 10 columns and 150k rows of wine reviews.
+```winemag-data_first150k.csv``` contains 10 columns and 150k rows of wine reviews.
 
 ## Acknowledgements
 
