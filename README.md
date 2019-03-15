@@ -9,6 +9,8 @@ Exploring Pandas and Visualizations using a Wine Review dataset found on www.kag
   <img width="180" src="beep_boop.png">
 </p>
 
+![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
+
 ## Wine Review Data Science
 Author: William Ponton
 
