@@ -5,9 +5,7 @@ William Ponton
 
 Exploring Pandas and Visualizations using a Wine Review dataset found on www.kaggle.com 
 
-<p align="center">
-  <img width="180" src="beep_boop.png">
-</p>
+![OwlLogo-01_200_200](https://user-images.githubusercontent.com/19881320/54484151-b85c4780-4836-11e9-923f-c5e0e5afe866.jpg)
 
 ![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
 
