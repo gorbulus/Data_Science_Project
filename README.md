@@ -1,4 +1,8 @@
-![wine_chalkboard](https://user-images.githubusercontent.com/19881320/54493655-d8c4ea00-48a8-11e9-8b50-28394f91ba62.jpg
+![wine_chalkboard](https://user-images.githubusercontent.com/19881320/54493655-d8c4ea00-48a8-11e9-8b50-28394f91ba62.jpg)
+
+<p align="center">
+  <img width="180" src="https://user-images.githubusercontent.com/19881320/54484151-b85c4780-4836-11e9-923f-c5e0e5afe866.jpg">
+</p>
 
 # Data Science Project
 
@@ -6,10 +10,6 @@ William Ponton
 2.17.19
 
 Exploring Pandas and Visualizations using a Wine Review dataset found on www.kaggle.com 
-
-<p align="center">
-  <img width="180" src="https://user-images.githubusercontent.com/19881320/54484151-b85c4780-4836-11e9-923f-c5e0e5afe866.jpg">
-</p>
 
 ## Wine Review Data Science
 Author: William Ponton
