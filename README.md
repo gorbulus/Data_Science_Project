@@ -1,4 +1,4 @@
-![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
+![wine_chalkboard](https://user-images.githubusercontent.com/19881320/54493655-d8c4ea00-48a8-11e9-8b50-28394f91ba62.jpg
 
 # Data Science Project
 
@@ -118,3 +118,5 @@ If you want to run tests.py ```pip install -r requirements.txt```
 Having trouble with Data_Science_Project? 
 
 Get help at: [gorbulus](waponton@gmail.com) and we’ll help you sort it out.
+
+![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
