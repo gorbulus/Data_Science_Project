@@ -117,6 +117,6 @@ If you want to run tests.py ```pip install -r requirements.txt```
 
 Having trouble with Data_Science_Project? 
 
-Get help at: [gorbulus](waponton@gmail.com) and we’ll help you sort it out.
+Get help: [@gorbulus](waponton@gmail.com) and we’ll help you sort it out.
 
 ![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
