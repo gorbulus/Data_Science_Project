@@ -4,17 +4,11 @@
   <img width="180" src="https://user-images.githubusercontent.com/19881320/54484151-b85c4780-4836-11e9-923f-c5e0e5afe866.jpg">
 </p>
 
-# Data Science Project
+# Wine Review Analysis
 
 William Ponton
-2.17.19
-
-Exploring Pandas and Visualizations using a Wine Review dataset found on www.kaggle.com 
-
-## Wine Review Data Science
-Author: William Ponton
-
-2.17.19
+Started: 2.17.19
+Completed: 3.17.19
 
 ### Contact
 
@@ -25,11 +19,17 @@ Github: [gorbulus](https://github.com/gorbulus)
 ## Description
 Welcome to my RMOTR Data Science Project.  I will be exploring a dataset found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews)
 
+This project demonstrates features of some common Data Science packages to explore a Wine Review dataset found on www.kaggle.com 
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Bokeh
+
 ## Content
 
 # This dataset contains two files:
-
-```winemag-data-130k-v2.csv``` contains 10 columns and 130k rows of wine reviews.
 
 ```winemag-data_first150k.csv``` contains 10 columns and 150k rows of wine reviews.
 
