@@ -6,18 +6,28 @@
 
 # Wine Review Analysis
 
+# Team Pura Pythonic Vida
+
 William Ponton
+
 Started: 2.17.19
+
 Completed: 3.17.19
 
 ### Contact
 
-Email: [waponton](waponton@gmail.com)
+Email: [@gorbulus](waponton@gmail.com)
 
 Github: [gorbulus](https://github.com/gorbulus)
 
+REPL: [@gorbulus](https://repl.it/@gorbulus)
+
+[LinkedIn](https://www.linkedin.com/in/williampontoncfsp/)
+
 ## Description
-Welcome to my RMOTR Data Science Project.  I will be exploring a dataset found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews)
+Welcome to Team Pura Vida's Wine Review Analysis for the RMOTR Data Science Coursework.  
+
+I will be using common DS Techniques to explore a dataset of Wine Reviews that I found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews)
 
 This project demonstrates features of some common Data Science packages to explore a Wine Review dataset found on www.kaggle.com 
 
@@ -29,16 +39,16 @@ This project demonstrates features of some common Data Science packages to explo
 
 ## Content
 
-# This dataset contains two files:
+# This dataset contains one csv file of 150,930 Wine Reviews:
 
-```winemag-data_first150k.csv``` contains 10 columns and 150k rows of wine reviews.
+```winemag-data_first150k.csv``` contains 10 columns and 150k+ rows of Wine Reviews scraped from WineEnthusiast durine 2017.
 
 ## Acknowledgements
 
-The data was scraped from WineEnthusiast during the week of June 15th, 2017. The code for the scraper can be found here if you have any more specific questions about data collection that I didn't address.
+The data was scraped from WineEnthusiast during the week of June 15th, 2017. I will be using the updated dataset that the curator on kaggle added the Twitter handle and duplicate entry issues from a previous version of the data with only 130,000 records.
 
-UPDATE 11/24/2017 After feedback from users of the dataset I scraped the reviews again on November 22nd, 2017. This time around I collected the title of each review, which you can parse the year out of, the tasters name, and the taster's Twitter handle. This should also fix the duplicate entry issue.
 Inspiration
+
 
 I think that this dataset offers some great opportunities for sentiment analysis and other text related predictive models. My overall goal is to create a model that can identify the variety, winery, and location of a wine based on a description. If anyone has any ideas, breakthroughs, or other interesting insights/models please post them.
 
