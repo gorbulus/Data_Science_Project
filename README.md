@@ -6,15 +6,15 @@
 
 # Wine Review Analysis
 
-# Team Pura Pythonic Vida
-
-William Ponton
+## Team Pura Pythonic Vida
 
 Started: 2.17.19
 
 Completed: 3.17.19
 
-### Contact
+Project Vision: To use Python and Data Science skills to elegantly interpret a dataset in a complete analysis project.
+
+### Contact Information
 
 Email: [@gorbulus](waponton@gmail.com)
 
@@ -22,14 +22,18 @@ Github: [gorbulus](https://github.com/gorbulus)
 
 REPL: [@gorbulus](https://repl.it/@gorbulus)
 
-[LinkedIn](https://www.linkedin.com/in/williampontoncfsp/)
+William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/)
 
-## Description
-Welcome to Team Pura Vida's Wine Review Analysis for the RMOTR Data Science Coursework.  
+## Project Description
+Welcome to Team Pura Vida's Wine Review Analysis for the [RMOTR](https://rmotr.com/) Data Science Coursework.  
 
-I will be using common DS Techniques to explore a dataset of Wine Reviews that I found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews)
+I will be using common DS Techniques to explore a dataset of Wine Reviews that I found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews). 
 
-This project demonstrates features of some common Data Science packages to explore a Wine Review dataset found on www.kaggle.com 
+## Project Stack
+
+Python has a strong DS stack using the Anaconda IDE in combination with Jupyter Notebooks, and RMOTR Notebooks.
+
+Anaconda comes with the standard Data Science packages already installed, such as:
 
 - Pandas
 - NumPy
@@ -37,19 +41,11 @@ This project demonstrates features of some common Data Science packages to explo
 - Seaborn
 - Bokeh
 
-## Content
+To get everything running in this project, use ```pip install -r requirements.txt```.
 
-# This dataset contains one csv file of 150,930 Wine Reviews:
+## Inspiration & Scientific Method
 
-```winemag-data_first150k.csv``` contains 10 columns and 150k+ rows of Wine Reviews scraped from WineEnthusiast durine 2017.
-
-## Acknowledgements
-
-The data was scraped from WineEnthusiast during the week of June 15th, 2017. I will be using the updated dataset that the curator on kaggle added the Twitter handle and duplicate entry issues from a previous version of the data with only 130,000 records.
-
-Inspiration
-
-
+As an epicurean who has been involved in the Food Industry my entire career, I wanted this project to be related to a culinary dataset of some kind.  The wine review dataset caught my attention because I always had been suspicious of quality and price being directly related in the consumer's mind.  
 I think that this dataset offers some great opportunities for sentiment analysis and other text related predictive models. My overall goal is to create a model that can identify the variety, winery, and location of a wine based on a description. If anyone has any ideas, breakthroughs, or other interesting insights/models please post them.
 
 
@@ -61,72 +57,57 @@ I think that this dataset offers some great opportunities for sentiment analysis
 4. Create a program to analyze results using Test Driven Design.
 5. Use scientific method to provide insightful interpretation.
 
-## Column descriptions
 
-The following are a brief summary of the 13 different columns of data included in the dataset:
+# Content and Data Source
 
-- country
+## This dataset contains one csv file of 150,930 Wine Reviews:
 
-The country that the wine is from
+```winemag-data_first150k.csv``` contains 10 columns and 150k+ rows of Wine Reviews scraped from WineEnthusiast during June of 2017.
 
-- description
 
-A description of the wine's flavor profile
+## Acknowledgements
 
-- designation
+The data was scraped from [Wine Enthusiast Magazine](https://www.winemag.com/) during the week of June 15th, 2017.
 
-The vineyard within the winery where the grapes that made the wine are from
-points
 
-- points
+## Dataset Overview
 
-The number of points WineEnthusiast rated the wine on a scale of 1-100 (though they say they only post reviews for wines that score >=80)
-price
+Each record in the dataset represents a single wine review from an online user of [Wine Enthusiast Magazine](https://www.winemag.com/)
 
-- price
+The following are a brief summary of the 10 different columns of data included in ```winemag-data_first150k.csv```:
 
-The cost for a bottle of the wine
+![reviews_df_dtypes](https://user-images.githubusercontent.com/19881320/54575190-7c0d2080-49c9-11e9-97b4-46c510a2c89d.jpg)
 
-- province
+## Data Columns
 
-The province or state that the wine is from
+1. Country  - The country of origin of the wine.
 
-- region_1
+2. Description - The description of the wine's flavor profile.
 
-The wine growing area in a province or state (ie Napa)
+3. Designation - The vineyard where the wine's grapes are sourced.
 
-- region_2
+4. Points - The number of points Wine Enthusiast  Magazine rated the wine on a scale of 1-100.
 
-Sometimes there are more specific regions specified within a wine growing area (ie Rutherford inside the Napa Valley), but this value can sometimes be blank
+5. Price - The cost for a single bottle of the wine.
 
-- taster_name
+6. Province - The province or state that the wine is from.
 
-The name of the wine reviewer
+7. Region 1 - The wine growing area in a province or state (for example, Napa Valley in California).
 
-- taster_twitter_handle
+8. Region 2 - (Optional) A more specific region in a wine growing area (for example, Rutherford inside Napa Valley).
 
-The wine reviewer's Twitter handle (if available)
+9. Variety - The type of grapes used to make the wine (for example, Pinot Noir).
 
-- title
-
-The title of the wine review, which often contains the vintage if you're interested in extracting that feature
-
-- variety
-
-The type of grapes used to make the wine (ie Pinot Noir)
-
-- winery
-
-The winery that made the wine
+10. Winery - The winery that made the wine.
 
 
 ## Dependencies
-If you want to run tests.py ```pip install -r requirements.txt```
+To get everything running, use ```pip install -r requirements.txt```.
 
 ### Support
 
-Having trouble with Data_Science_Project? 
+Having questions about the Wine Review Analysis? 
 
-Get help: [@gorbulus](waponton@gmail.com) and we’ll help you sort it out.
+Contact me: [@gorbulus](waponton@gmail.com) and I will be glad to help.
 
 ![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
