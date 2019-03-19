@@ -8,26 +8,25 @@
 
 ## Team Pura Pythonic Vida
 
-Started: 2.17.19
-
-Completed: 3.17.19
-
-Project Vision: To use Python and Data Science skills to elegantly interpret a dataset in a complete analysis project.
-
-### Contact Information
-
 Email: [@gorbulus](waponton@gmail.com)
 
 Github: [gorbulus](https://github.com/gorbulus)
 
 REPL: [@gorbulus](https://repl.it/@gorbulus)
 
-William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/)
+William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/) 
 
-## Project Description
+### Project Description
+Project Vision: To use Python and Data Science skills to elegantly interpret a dataset in a complete analysis project.
+
 Welcome to Team Pura Vida's Wine Review Analysis for the [RMOTR](https://rmotr.com/) Data Science Coursework.  
 
 I will be using common DS Techniques to explore a dataset of Wine Reviews that I found on [kaggle](https://www.kaggle.com/zynicide/wine-reviews). 
+
+Started: 2.17.19
+
+Completed: 3.17.19
+
 
 ## Project Stack
 
@@ -41,7 +40,7 @@ Anaconda comes with the standard Data Science packages already installed, such a
 - Seaborn
 - Bokeh
 
-To get everything running in this project, use ```pip install -r requirements.txt```.
+To get everything running in this project, use ```pip install -r requirements.txt```
 
 ## Inspiration & Scientific Method
 
@@ -60,7 +59,7 @@ I think that this dataset offers some great opportunities for sentiment analysis
 
 # Content and Data Source
 
-## This dataset contains one csv file of 150,930 Wine Reviews:
+### This dataset contains one csv file of 150,930 Wine Reviews:
 
 ```winemag-data_first150k.csv``` contains 10 columns and 150k+ rows of Wine Reviews scraped from WineEnthusiast during June of 2017.
 
@@ -102,12 +101,19 @@ The following are a brief summary of the 10 different columns of data included i
 
 
 ## Dependencies
-To get everything running, use ```pip install -r requirements.txt```.
+To get everything running, use ```pip install -r requirements.txt```
 
-### Support
+### Contact Information
+What did you think about the Wine Review Analysis?
 
-Having questions about the Wine Review Analysis? 
+Let's talk.
 
-Contact me: [@gorbulus](waponton@gmail.com) and I will be glad to help.
+Email: [@gorbulus](waponton@gmail.com)
+
+Github: [gorbulus](https://github.com/gorbulus)
+
+REPL: [@gorbulus](https://repl.it/@gorbulus)
+
+William Ponton: [LinkedIn](https://www.linkedin.com/in/williampontoncfsp/) 
 
 ![FoodCubes](https://user-images.githubusercontent.com/19881320/54451802-09cae080-472a-11e9-9add-d6a051bacada.jpg)
